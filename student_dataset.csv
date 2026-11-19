@@ -1,0 +1,11 @@
+Student_ID,Student_Name,Pickup_Location,Latitude,Longitude,Distance_from_School
+1,Student_1,Gandhipuram,11.018,76.967,1.2296906631058833
+2,Student_2,RS Puram,11.01,76.955,0.7611505346898162
+3,Student_3,Peelamedu,11.024,77.002,5.105632491097289
+4,Student_4,Saibaba Colony,11.027,76.95,1.2988900705270594
+5,Student_5,Singanallur,10.998,77.015,6.7913735418683725
+6,Student_6,Saravanampatti,11.078,76.995,8.038137003227112
+7,Student_7,Hope College,11.025,77.01,5.985473649763853
+8,Student_8,Town Hall,10.995,76.961,2.4896106593387053
+9,Student_9,Vadavalli,11.03,76.94,2.2645382740005546
+10,Student_10,Ganapathy,11.042,76.97,3.20214334812958
