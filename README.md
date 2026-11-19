@@ -1,4 +1,11 @@
 # School Transport Route Optimization
+## Live Dashboard
+
+Explore the interactive School Transport Route Optimization Dashboard:
+
+[Click Here to View Live Dashboard](https://priyadharshiniv2918-vj.github.io/School-Transport-Route-Optimization/)
+
+The dashboard displays optimized school bus routes on an interactive map.
 
 ## Project Overview
 This project focuses on optimizing school bus transportation routes using Python and data analysis techniques.
