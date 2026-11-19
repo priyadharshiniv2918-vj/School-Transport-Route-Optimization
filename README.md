@@ -48,7 +48,7 @@ The main objective is to generate efficient school bus routes based on student l
 ## Author
 **Priyadharshini Vijayakumar**
 
-M.Sc. Data Science
+M.Sc. Data Analytics
 
 ## Project Domain
 Data Science | Data Analytics | Route Optimization
